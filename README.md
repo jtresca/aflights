@@ -51,7 +51,7 @@ I also edited the webpack config file to add in the ability to use SVGs. I also 
 
 I'm fullstack with Node.js, Mongo and SQL as to my backend and database knowledge.
 
-## How to Run It##
+## How to Run It
 Just NPM install and then NPM start. You'll find the app here http://localhost:8080/ if your browser doesn't open up and take you there automagically.
 
 Thanks in advance for your time and consideration! I do hope we'll get to meet in person some time soon.
