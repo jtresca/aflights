@@ -1,0 +1,38 @@
+.rotationContainer {
+    padding: 0em;
+    margin: 1em 0em 2em 0em;
+    height: 424px;
+    -webkit-box-shadow: 2px 2px 5px -2px rgba(0,0,0,0.35); 
+    box-shadow: 2px 2px 5px -2px rgba(0,0,0,0.35);
+    background: #F0F0F0;
+    overflow-y: scroll;
+}
+
+.rotationComponent {
+    background: white;
+    margin: 1em;
+    height: 1.5em;
+    padding: 2.1em;
+    display: flex;   
+}
+
+.componentChild {
+    width: 33.3%;
+    text-align: center;
+    line-height: 1.4em;
+    position: relative;
+    bottom: 1.5em;
+}
+
+.tag {
+    font-size: .75em;
+    font-weight: bold;
+}
+
+button {
+    background-color: #fd521F;
+    border-radius: .5em;
+    cursor: pointer;
+    border-width: 0em;
+    padding: .45em;
+}

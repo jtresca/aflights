@@ -1,0 +1,9 @@
+.aircraftContainer {
+    padding: .75em;
+    margin: 1em 2em 2em 2em;
+    height: 400px;
+    -webkit-box-shadow: 2px 2px 5px -2px rgba(0,0,0,0.35); 
+    box-shadow: 2px 2px 5px -2px rgba(0,0,0,0.35);
+    background: #F0F0F0;
+    overflow: scroll;
+}

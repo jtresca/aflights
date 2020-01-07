@@ -1,0 +1,21 @@
+.componentEdge {
+    background-color: #fd521f;
+    width: 100%;
+    height: 70px;
+    color: white;
+    display:flex;
+    flex-direction: row;
+}
+
+.componentText {
+    text-align: left;
+    width: 65%;
+    padding-top: 2em;
+    font-size: .65em;
+    line-height: 1.4em;
+}
+
+.planeAdjustment {
+    padding: 1.5em 0em .5em 1em;
+    width: 25%;
+}

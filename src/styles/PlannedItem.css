@@ -1,0 +1,45 @@
+.componentBody {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: .5em;
+    background: white;
+}
+
+.topChildBody {
+    display:flex;
+    flex-direction: row;
+    padding: .25em;
+}
+
+.bottomChildBody {
+    display:flex;
+    flex-direction: row;
+}
+
+.topChild {
+    text-align: center;
+    width: 100%;
+}
+
+.bottomChild {
+    width: 33.3%;
+    text-align:center;
+    padding: .25em;
+    line-height: 1.4em;
+}
+
+.delete {
+    background: red;
+    width: 1em;
+    height: 1em;
+    border-radius: 0px;
+    position: relative;
+    left: 15em;
+    top: 1.5em
+}
+
+#flightpath {
+    position: relative;
+    top: .80em;
+}
+
