@@ -10,11 +10,7 @@ So the rules of the challenge:
 
 I typically break down programming tasks by prioritizing the most important elements first so that I can bring an MVP to the user as quickly as possible. I'm a big believer in the Agile methodology of continuous deployment. Get the thing built and get users testing it as soon as possible! I've never once programmed anything and had it just work without discovering some bug or edge case that I didn't think of but the users quickly pointed out. The emphasis is on **quickly**, since as it turns out, they want you to fix bugs as much you do! After all, it usually helps them be more productive.
 
-<<<<<<< HEAD
 I designed the logo in **Illustrator** and designed a **composition** in **Photoshop**. For a real project I'd have no trouble at all putting my thoughts into a **wireframe** if one was not provided. This was an essential part of my duties at GLG.
-=======
-To that end, I chose not to focus on the fancy **timeline utilization component**. Full disclosure though, I spent **4.5** hours on this test. I have a background in design and user experience, over **20 years** actually, so I knew I wanted this little app to at least look decent. I designed the logo in **Illustrator** and designed a **composition** in **Photoshop**. Yeah, I'm fancy like that! For a real project I'd have no trouble at all putting my thoughts into a **wireframe** if one was not provided. This was an essential part of my duties at your unnamed competitor. 
->>>>>>> de9f61fcee05beaa0979969d6954bfb351005ec1
 
 ## What Would I Have Done With More Time?
 
