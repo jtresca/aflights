@@ -1,20 +1,16 @@
 # AlphaFlights
-*Wink* *Wink* You know what it is, and I know what it is and that's all that really matters.
+A coding challenge. The rules were pretty simple. It's an airline with one aircraft. The CEO wants to be able to maximize flight time to pay for the plane and buy more planes for the fleet. I built this using React.js really just to demonstrate I know how to do use the latest flavor of React.
 
-## Motivation
-Well, since you're asking I'd really like to work at AS some day in the near future! I think my experience at a certain unnamed experts network means that I'm in a decent position to talk about what worked and what didn't while I was there.
-
-## My Assumptions
-I know this test was intentionally ambiguous. That being said what I gleaned from staring at the brief for well over 30 minutes *blushes* was that essentially the objective was for the app to allow the user to put together a flight plan which seeks to maximize in-air utilization for their single aircraft. Since I'm a gamer and game developer, so I broke this test down as a game of sorts. The ultimate object (to win the game) was to maximize in air utilization given the 25 possible flight rotations. I think I maxed out at 45% utilization but that doesn't mean you can't beat my score! There are rules to this game that make it a little bit tricky. 
+So the rules of the challenge:
 
 **1. You can't make this aircraft teleport between airports. That limits things a bit.**
 **2. Flights must be grounded for at least 20 minutes before they can take off again.** 
 **3. You can't submit bad data by pushing the same rotation to the flight plan more than one time.**
 **4. The next flight can't be scheduled to occur before the aircraft has landed at the destination.**
 
-I typically break down programming tasks by prioritizing the most important elements first so that I can bring an MVP to the user as quickly as possible. I'm a big believer in the Agile methodology of continuous deployment. Get the thing built and get users testing it as soon as possible! I've never once programmed anything and had it just work without discovering some bug or edge case that I didn't think of but the users quickly pointed out. The emphasis is on **quickly**, since as it turns out, they want you to fix bugs as much you do! After all, it helps them be more productive.
+I typically break down programming tasks by prioritizing the most important elements first so that I can bring an MVP to the user as quickly as possible. I'm a big believer in the Agile methodology of continuous deployment. Get the thing built and get users testing it as soon as possible! I've never once programmed anything and had it just work without discovering some bug or edge case that I didn't think of but the users quickly pointed out. The emphasis is on **quickly**, since as it turns out, they want you to fix bugs as much you do! After all, it usually helps them be more productive.
 
-To that end, I chose not to focus on the fancy **timeline utilization component**. Full disclosure though, I spent **4.5** hours on this test. I have a background in design and user experience, over **20 years** actually, so I knew I wanted this little app to at least look decent. I designed the logo in **Illustrator** and designed a **composition** in **Photoshop**. Yeah, I'm fancy like that! For a real project I'd have no trouble at all putting my thoughts into a **wireframe** if one was not provided. This was an essential part of my duties at your unnamed commpetitor. 
+I designed the logo in **Illustrator** and designed a **composition** in **Photoshop**. For a real project I'd have no trouble at all putting my thoughts into a **wireframe** if one was not provided. This was an essential part of my duties at GLG.
 
 ## What Would I Have Done With More Time?
 
@@ -54,7 +50,9 @@ I'm fullstack with Node.js, Mongo and SQL as to my backend and database knowledg
 ## How to Run It
 Just NPM install and then NPM start. You'll find the app here http://localhost:8080/ if your browser doesn't open up and take you there automagically.
 
-Thanks in advance for your time and consideration! I do hope we'll get to meet in person some time soon.
+Thanks in advance for your time and consideration! 
+
+
 
 
 
